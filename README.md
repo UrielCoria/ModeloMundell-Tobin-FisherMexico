@@ -11,11 +11,19 @@
 			<li> Previsión perfecta de las expectativas de inflación </li>
 			<li> Precios rígidos a corto plazo y flexibles a largo plazo </li>
 		</ul>
-	<br><br>
+	<br>
 	Las ecuaciones originarias son las siguientes:
 	<br><br>
 	Ecuación de la oferta-demanda de dinero (LM)
 	<br>
 	<img src="media/Equation4.jpg" alt="LM" width="300" height="50">
+	<br>
+	Ecuación del ahorro-inversión general (IS)
+	<br>
+	<img src="media/Equation5.jpg" alt="IS" width="300" height="50">
+	<br>
+	Ecuación de la demanda agregada (DA)
+	<br>
+	<img src="media/Equation6.jpg" alt="DA" width="300" height="50">
 	</p>
 </font>
