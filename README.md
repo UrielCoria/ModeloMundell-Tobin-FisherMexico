@@ -61,7 +61,7 @@
 	<b>
 		Previsión perfecta
 	</b>
-	<img src="media/Equation9.jpg" alt="Prev.P" width="200" height="50">
+	<img src="media/Equation9.jpg" alt="Prev.P" width="70" height="50">
 	<br>
 	Todas las variables antes mencionadas están expresadas en logaritmos, exceptuando los índices, donde:
 		<ul>
@@ -71,11 +71,8 @@
 			<li> "y" es la producción real.
 			<li> "r" es el tipo de interés real.
 			<li> "i" es el tipo de interés nominal.
-			<li> 
-			<li>
-			<li>
-			<li>
-			<li>	
+			<li> "<img src="media/dotp.jpg" alt="Inflación" width="20" height="20">" es la tasa de inflación. 
+			<li> "<img src="media/dotpe.jpg" alt="Inflación" width="20" height="20">" es la tasa de inflación esperada.
 		</ul>
 	</p>
 </font>
