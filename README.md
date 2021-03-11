@@ -21,7 +21,7 @@
 	Desarrollo de la ecuación
 	<img src="media/Equation4,1.jpg" alt="LM" width="500" height="50">
 	<br>
-	<img src="media/Equation4,2.jpg" alt="LM" width="800" height="50">
+	<img src="media/Equation4,2.jpg" alt="LM" width="250" height="50">
 	<br>
 	Ecuación de la inversión-ahorro general (IS)
 	<br>
@@ -30,7 +30,7 @@
 	Desarrollo de la ecuación
 	<img src="media/Equation5,1.jpg" alt="IS" width="300" height="50">
 	<br>
-	<img src="media/Equation5,2.jpg" alt="IS" width="300" height="50">
+	<img src="media/Equation5,2.jpg" alt="IS" width="700" height="50">
 	<br>
 	Ecuación de la demanda agregada (DA)
 	<br>
