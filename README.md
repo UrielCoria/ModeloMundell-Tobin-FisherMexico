@@ -50,5 +50,32 @@
 		Obedeciendo las restricciones:
 	</b>
 	<img src="media/CoeffEquations.jpg" alt="Coeff" width="200" height="50">
+	<b>
+		Dinámica de precios
+	</b>
+	<img src="media/Equation7.jpg" alt="DinamicaP" width="200" height="50">
+	<b>
+		Dinámica de la oferta
+	</b>
+	<img src="media/Equation8.jpg" alt="DinamicaS" width="200" height="50">
+	<b>
+		Previsión perfecta
+	</b>
+	<img src="media/Equation9.jpg" alt="Prev.P" width="200" height="50">
+	<br>
+	Todas las variables antes mencionadas están expresadas en logaritmos, exceptuando los índices, donde:
+		<ul>
+			<li> "m" es el stock nominal de dinero.
+			<li> "p" es el nivel de precios.
+			<li> "y<sup>d</sup>" es la demanda en términos reales.
+			<li> "y" es la producción real.
+			<li> "r" es el tipo de interés real.
+			<li> "i" es el tipo de interés nominal.
+			<li> 
+			<li>
+			<li>
+			<li>
+			<li>	
+		</ul>
 	</p>
 </font>
