@@ -18,12 +18,16 @@
 	<br>
 	<img src="media/Equation4.jpg" alt="LM" width="240" height="50">
 	<br>
-	<img src="media/Equation4,1.jpg" alt="LM" width="300" height="50">
+	Desarrollo de la ecuación
+	<img src="media/Equation4,1.jpg" alt="LM" width="500" height="50">
 	<br>
-	<img src="media/Equation4,2.jpg" alt="LM" width="300" height="50">
+	<img src="media/Equation4,2.jpg" alt="LM" width="800" height="50">
+	<br>
+	Ecuación de la inversión-ahorro general (IS)
 	<br>
 	<img src="media/Equation5.jpg" alt="IS" width="300" height="50">
 	<br>
+	Desarrollo de la ecuación
 	<img src="media/Equation5,1.jpg" alt="IS" width="300" height="50">
 	<br>
 	<img src="media/Equation5,2.jpg" alt="IS" width="300" height="50">
@@ -34,6 +38,5 @@
 	<br>
 	Obedeciendo las restricciones:
 	<img src="media/CoeffEquations.jpg" alt="Coeff" width="200" height="50">
-	
 	</p>
 </font>
